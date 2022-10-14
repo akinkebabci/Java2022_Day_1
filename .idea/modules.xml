@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java2022Odev_1/Array_Diziler/Array_Diziler.iml" filepath="$PROJECT_DIR$/java2022Odev_1/Array_Diziler/Array_Diziler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java2022Odev_1/Array_Diziler_RecapDemo/Array_Diziler_RecapDemo.iml" filepath="$PROJECT_DIR$/java2022Odev_1/Array_Diziler_RecapDemo/Array_Diziler_RecapDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java2022Odev_1/Classes_claslar/Classes_claslar.iml" filepath="$PROJECT_DIR$/java2022Odev_1/Classes_claslar/Classes_claslar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java2022Odev_1/Donguler/Donguler.iml" filepath="$PROJECT_DIR$/java2022Odev_1/Donguler/Donguler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java2022_Day_1.iml" filepath="$PROJECT_DIR$/.idea/Java2022_Day_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java2022Odev_1/MethodOverloading/MethodOverloading.iml" filepath="$PROJECT_DIR$/java2022Odev_1/MethodOverloading/MethodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java2022Odev_1/Methods_Methodlar/Methods_Methodlar.iml" filepath="$PROJECT_DIR$/java2022Odev_1/Methods_Methodlar/Methods_Methodlar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java2022Odev_1/MiniProje1_SayiAsalmi/MiniProje1_SayiAsalmi.iml" filepath="$PROJECT_DIR$/java2022Odev_1/MiniProje1_SayiAsalmi/MiniProje1_SayiAsalmi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java2022Odev_1/MiniProje2_SesliHarfler/MiniProje2_SesliHarfler.iml" filepath="$PROJECT_DIR$/java2022Odev_1/MiniProje2_SesliHarfler/MiniProje2_SesliHarfler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java2022Odev_1/MiniProje_MukemmelSayi/MiniProje_MukemmelSayi.iml" filepath="$PROJECT_DIR$/java2022Odev_1/MiniProje_MukemmelSayi/MiniProje_MukemmelSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java2022Odev_1/Miniproje3_ArkadasSayilar/Miniproje3_ArkadasSayilar.iml" filepath="$PROJECT_DIR$/java2022Odev_1/Miniproje3_ArkadasSayilar/Miniproje3_ArkadasSayilar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java2022Odev_1/Miniproje4_sayiBulma/Miniproje4_sayiBulma.iml" filepath="$PROJECT_DIR$/java2022Odev_1/Miniproje4_sayiBulma/Miniproje4_sayiBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java2022Odev_1/MultiDimensionalArrayDemo_CokBoyutluDiziler/MultiDimensionalArrayDemo_CokBoyutluDiziler.iml" filepath="$PROJECT_DIR$/java2022Odev_1/MultiDimensionalArrayDemo_CokBoyutluDiziler/MultiDimensionalArrayDemo_CokBoyutluDiziler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java2022Odev_1/classesWithAttributes/classesWithAttributes.iml" filepath="$PROJECT_DIR$/java2022Odev_1/classesWithAttributes/classesWithAttributes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java2022Odev_1/dataType(veriTipleri)/dataType(veriTipleri).iml" filepath="$PROJECT_DIR$/java2022Odev_1/dataType(veriTipleri)/dataType(veriTipleri).iml" />
+      <module fileurl="file://$PROJECT_DIR$/java2022Odev_1/degiskenler/degiskenler.iml" filepath="$PROJECT_DIR$/java2022Odev_1/degiskenler/degiskenler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java2022Odev_1/enBuyukSayi(sartBloklari)/enBuyukSayi(sartBloklari).iml" filepath="$PROJECT_DIR$/java2022Odev_1/enBuyukSayi(sartBloklari)/enBuyukSayi(sartBloklari).iml" />
+      <module fileurl="file://$PROJECT_DIR$/java2022Odev_1/if_Bloklariyla_Calismak/if_Bloklariyla_Calismak.iml" filepath="$PROJECT_DIR$/java2022Odev_1/if_Bloklariyla_Calismak/if_Bloklariyla_Calismak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java2022Odev_1/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/java2022Odev_1/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java2022Odev_1/inheritanceDemo/inheritanceDemo.iml" filepath="$PROJECT_DIR$/java2022Odev_1/inheritanceDemo/inheritanceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java2022Odev_1/methods_Methodlar2/methods_Methodlar2.iml" filepath="$PROJECT_DIR$/java2022Odev_1/methods_Methodlar2/methods_Methodlar2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java2022Odev_1/poliymorphismDemo/poliymorphismDemo.iml" filepath="$PROJECT_DIR$/java2022Odev_1/poliymorphismDemo/poliymorphismDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java2022Odev_1/reCapDemo_Classes/reCapDemo_Classes.iml" filepath="$PROJECT_DIR$/java2022Odev_1/reCapDemo_Classes/reCapDemo_Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java2022Odev_1/stringDemo/stringDemo.iml" filepath="$PROJECT_DIR$/java2022Odev_1/stringDemo/stringDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java2022Odev_1/switchBloklari/switchBloklari.iml" filepath="$PROJECT_DIR$/java2022Odev_1/switchBloklari/switchBloklari.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java2022Odev_1/veriables(degiskenler)/veriables(degiskenler).iml" filepath="$PROJECT_DIR$/java2022Odev_1/veriables(degiskenler)/veriables(degiskenler).iml" />
+    </modules>
+  </component>
+</project>
